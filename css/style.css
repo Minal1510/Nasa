@@ -1117,12 +1117,14 @@ figure:hover+span {
         line-height: 2;
 	}
 	.mission-img{
-		flex-direction: column;
+		flex-direction: row;
 		justify-content: space-between;
+		width: 100%;
 }	
 	.mission1-img{
-		flex-direction: column;;
+		flex-direction: row;;
 		justify-content: space-between;
+		width: 100%;
 }
 .mission-img .m-1{
 	width: 100%;
